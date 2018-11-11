@@ -1,6 +1,7 @@
 package cn.edidada;
 
 import javax.servlet.*;
+import javax.servlet.http.HttpServlet;
 import java.io.IOException;
 
 public class MyServlet implements Servlet {
